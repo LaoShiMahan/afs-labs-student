@@ -1,4 +1,4 @@
---
+-- Adding comment to see if database pipeline runs automatically
 -- PostgreSQL database dump
 --
 
